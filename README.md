@@ -11,6 +11,6 @@ Numerical Linear Algebra, Trefethen and Bau, 1997.
 * **Lecture 2**. Orthogonal Vectors and Matrices
 * **Lecture 3**. Norms
 * **Lecture 4**. [The Singular Value Decomposition](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/4.%20The%20Singular%20Value%20Decomposition) 
-* **Lecture 5**. [More on the SVD]()
+* **Lecture 5**. [More on the SVD](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/5.%20More%20on%20the%20SVD.pdf)
 
 #### II. QR Factorization and Least Squares
