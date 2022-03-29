@@ -22,5 +22,5 @@ Numerical Linear Algebra, Trefethen and Bau, 1997.
 * **Lecture 11**. [Least Squares Problems](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/11.%20Least%20Squares%20Problems) 
 
 #### III. Conditioning and Stability
-* **Lecture 12**. [Conditioning and Condition Numbers](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/12.%20Conditioning%20and%20Condition Numbers) 
+* **Lecture 12**. [Conditioning and Condition Numbers](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/12.%20Conditioning%20and%20Condition%20Numbers) 
 * **Lecture 13**. [Floating Point Arithmetic](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/13.%20Floating%20Point%20Arithmetic) 
