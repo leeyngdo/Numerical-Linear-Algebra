@@ -25,7 +25,7 @@ Numerical Linear Algebra, Trefethen and Bau, 1997.
 * **Lecture 12**. [Conditioning and Condition Numbers](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/12.%20Conditioning%20and%20Condition%20Numbers) 
 * **Lecture 13**. [Floating Point Arithmetic](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/13.%20Floating%20Point%20Arithmetic) 
 * **Lecture 14**. [Stability](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/14.%20Stability) 
-* **Lecture 15**. [More on Stability](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/15.%20More%20on%20Stability) 
+* **Lecture 15**. [More on Stability](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/15.%20More%20On%20Stability) 
 * **Lecture 16**. [Stability of Householder Triangularization](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/16.%20Stability%20of%20Householder%20Triangularization) 
 * **Lecture 17**. [Stability of Back Substitution](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/17.%20Stability%20of%20Back%20Substitution) 
 * **Lecture 18**. [Conditioning of Least Squares Problems](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/18.%20Conditioning%20of%20Least%20Squares%20Problems) 
