@@ -1,7 +1,7 @@
 %% Input: Let T be the tridiagonal symmetric matrix
 %% Output: The eigenvalue of A, the vector storing abs(t_m,m-1),  
 %% This is the verbose version of shifted qralg.m .
-function [eigenvalue, logvector, Tnew] = shftqralg_verb(T)
+function [,Tnew, eigenvalue, logvector] = shftqralg_verb(T)
     [m, ~] = size(T);
     logvector = [];
     iter = 1;
