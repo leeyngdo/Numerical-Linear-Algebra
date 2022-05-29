@@ -45,5 +45,5 @@ Numerical Linear Algebra, Trefethen and Bau, 1997.
 * **Lecture 28**. [QR Algorithm without Shifts](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/20.%20Gaussian%20Elimination) 
 * **Lecture 29**. [QR Algorithm with Shifts](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/29.%20QR%20Algorithm%20with%20Shifts)
 * **Lecture 30**. Other Eigenvalue Algorithms
-* **Lecture 31**. [Computing the SVD](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/23.%20Cholesky%20Factorization) 
+* **Lecture 31**. [Computing the SVD](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/31.%20Computing%20the%20SVD)
 #### VI. Iterative Methods
