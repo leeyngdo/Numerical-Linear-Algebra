@@ -39,11 +39,21 @@ Numerical Linear Algebra, Trefethen and Bau, 1997.
 
 #### V. Eigenvalues
 * **Lecture 24**. [Eigenvalue Problems](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/24.%20Eigenvalue%20Problems)
-* **Lecture 25**. Overview of Eigenvalue Algorithms
-* **Lecture 26**. [Reduction to Hessenberg or Tridiagonal Form](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/21.%20Stability%20of%20Gaussian%20Elimination) 
-* **Lecture 27**. [Rayleigh Quotient, Inverse Iteration](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/23.%20Cholesky%20Factorization) 
-* **Lecture 28**. [QR Algorithm without Shifts](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/20.%20Gaussian%20Elimination) 
+* **Lecture 25**. [Overview of Eigenvalue Algorithms](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/25.%20Overview%20of%20Eigenvalue%20Algorithms)
+* **Lecture 26**. [Reduction to Hessenberg or Tridiagonal Form](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/26.%20Reduction%20to%20Hessenberg%20or%20Tridiagonal%20Form)
+* **Lecture 27**. [Rayleigh Quotient, Inverse Iteration](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/27.%20Rayleigh%20Quotient%2C%20Inverse%20Iteration)
+* **Lecture 28**. [QR Algorithm without Shifts](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/28.%20QR%20Algorithm%20without%20Shifts) 
 * **Lecture 29**. [QR Algorithm with Shifts](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/29.%20QR%20Algorithm%20with%20Shifts)
 * **Lecture 30**. Other Eigenvalue Algorithms
 * **Lecture 31**. [Computing the SVD](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/31.%20Computing%20the%20SVD)
+
 #### VI. Iterative Methods
+* **Lecture 32**. Overview of Iterative Methods
+* **Lecture 33**. [The Arnoldi Iteration](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/25.%20Overview%20of%20Eigenvalue%20Algorithms)
+* **Lecture 34**. [How Arnoldi Locates Eigenvalues](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/26.%20Reduction%20to%20Hessenberg%20or%20Tridiagonal%20Form)
+* **Lecture 35**. [GMRES](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/27.%20Rayleigh%20Quotient%2C%20Inverse%20Iteration)
+* **Lecture 36**. [The Lanczos Iteration](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/28.%20QR%20Algorithm%20without%20Shifts) 
+* **Lecture 37**. From Lanczos to Gauss Quadrature *Skip*
+* **Lecture 38**. [Conjugate Gradients]()
+* **Lecture 39**. Biorthogonalization Methods *Skip*
+* **Lecture 40**. Preconditioning
