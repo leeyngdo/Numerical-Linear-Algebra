@@ -38,7 +38,7 @@ Numerical Linear Algebra, Trefethen and Bau, 1997.
 * **Lecture 23**. [Cholesky Factorization](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/23.%20Cholesky%20Factorization) 
 
 #### V. Eigenvalues
-* **Lecture 24**. [Eigenvalue Problems](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/20.%20Gaussian%20Elimination) 
+* **Lecture 24**. [Eigenvalue Problems](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/24.%20Eigenvalue%20Problems)
 * **Lecture 25**. Overview of Eigenvalue Algorithms
 * **Lecture 26**. [Reduction to Hessenberg or Tridiagonal Form](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/21.%20Stability%20of%20Gaussian%20Elimination) 
 * **Lecture 27**. [Rayleigh Quotient, Inverse Iteration](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/23.%20Cholesky%20Factorization) 
