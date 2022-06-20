@@ -50,11 +50,11 @@ My solutions to exercises in Numerical Linear Algebra by Trefethen and Bau.
 
 #### VI. Iterative Methods
 * **Lecture 32**. Overview of Iterative Methods
-* **Lecture 33**. [The Arnoldi Iteration](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/25.%20Overview%20of%20Eigenvalue%20Algorithms)
-* **Lecture 34**. [How Arnoldi Locates Eigenvalues](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/26.%20Reduction%20to%20Hessenberg%20or%20Tridiagonal%20Form)
-* **Lecture 35**. [GMRES](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/27.%20Rayleigh%20Quotient%2C%20Inverse%20Iteration)
-* **Lecture 36**. [The Lanczos Iteration](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/28.%20QR%20Algorithm%20without%20Shifts) 
+* **Lecture 33**. [The Arnoldi Iteration](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/33.%20The%20Arnoldi%20Iteration)
+* **Lecture 34**. How Arnoldi Locates Eigenvalues
+* **Lecture 35**. [GMRES](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/35.%20GMRES)
+* **Lecture 36**. [The Lanczos Iteration](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/36.%20The%20Lanczos%20Iteration) 
 * **Lecture 37**. From Lanczos to Gauss Quadrature *Skip*
-* **Lecture 38**. [Conjugate Gradients]()
+* **Lecture 38**. [Conjugate Gradients](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/38.%20Conjugate%20Gradients)
 * **Lecture 39**. Biorthogonalization Methods *Skip*
 * **Lecture 40**. Preconditioning
