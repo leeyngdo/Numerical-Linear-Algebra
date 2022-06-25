@@ -30,12 +30,12 @@ My solutions to exercises in Numerical Linear Algebra by Trefethen and Bau.
 * **Lecture 16**. [Stability of Householder Triangularization](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/16.%20Stability%20of%20Householder%20Triangularization) 
 * **Lecture 17**. [Stability of Back Substitution](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/17.%20Stability%20of%20Back%20Substitution) 
 * **Lecture 18**. [Conditioning of Least Squares Problems](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/18.%20Conditioning%20of%20Least%20Squares%20Problems) 
-* **Lecture 19**. [Stability of Least Squares Algorithms](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/19.%20Stability%20of%20Least%20Squares%20Algorithms) 
+* **Lecture 19**. Stability of Least Squares Algorithms
 
 #### IV. Systems of Equations
 * **Lecture 20**. [Gaussian Elimination](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/20.%20Gaussian%20Elimination) 
 * **Lecture 21**. [Pivoting](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/21.%20Pivoting) 
-* **Lecture 22**. [Stability of Gaussian Elimination](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/21.%20Stability%20of%20Gaussian%20Elimination) 
+* **Lecture 22**. [Stability of Gaussian Elimination](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/22.%20Stability%20of%20Gaussian%20Elimination) 
 * **Lecture 23**. [Cholesky Factorization](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/23.%20Cholesky%20Factorization) 
 
 #### V. Eigenvalues
