@@ -1,6 +1,7 @@
 # Numerical-Linear-Algebra
-Numerical Linear Algebra, Trefethen and Bau, 1997.
-My solutions to exercises in Numerical Linear Algebra by Trefethen and Bau. 
+Numerical Linear Algebra, Trefethen and Bau, 1997. <br>
+My solutions to exercises in Numerical Linear Algebra by Trefethen and Bau. <br>
+There may be an error or wrong solution, so use it only for reference. <br>
 
 <p align = "center">
 <img src = "https://user-images.githubusercontent.com/88715406/156889604-92cec130-85dd-4b65-a004-f11b0b15c46f.png" width = "20%" height = "20%">
