@@ -21,7 +21,7 @@ There may be an error or wrong solution, so use it only for reference. <br>
 * **Lecture 8**. [Gram-Schmidt Orthogonalization](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/8.%20Gram-Schmidt%20Orthogonalization) 
 * **Lecture 9**. [MATLAB](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/9.%20MATLAB) 
 * **Lecture 10**. [Householder Triangularization](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/10.%20Householder%20Triangularization) 
-* **Lecture 11**. [Least Squares Problems](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/11.%20Least%20Squares%20Problems) 
+* **Lecture 11**. [Least Squares Problems](https://github.com/leeyngdo/Numerical-Linear-Algebra/tree/main/11.%20Least%20Square%20Problems) 
 
 #### III. Conditioning and Stability
 * **Lecture 12**. [Conditioning and Condition Numbers](https://github.com/leeyngdo/Numerical-Linear-Algebra/blob/main/12.%20Conditioning%20and%20Condition%20Numbers) 
